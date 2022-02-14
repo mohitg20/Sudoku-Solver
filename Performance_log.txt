@@ -1,0 +1,5 @@
+k=2:	Generator: 0.01s	Solver: 0.0s
+k=3:	Generator: 0.24s	Solver: 0.04s
+k=4:	Generator: 18.79s	Solver: 0.88s
+k=5:	Generator: 174.38s	Solver: 3.9s
+k=6:	Generator: 1156.69s	Solver: 16.82s
